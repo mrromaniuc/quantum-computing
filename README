@@ -1,5 +1,6 @@
 # Quantum Computing
 
 
-This repository contains the notebooks related to Quantum Computing.
+This repository contains notebooks related to Quantum Computing.
 
+FIS0031 - example Notebook containing code required to create circuits and run them on the IBM platform - qiskit
